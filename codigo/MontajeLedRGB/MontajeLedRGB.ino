@@ -73,16 +73,23 @@ void todosOff()
 
 void RojosOn()
 {
-  for(int i=0;i<total_usados;i++) { // el primero rojo es el 0
+  for(int i=0;i<total_usados;i+=3) { // el primero rojo es el 0 y saltamos de 3 en 3
     digitalWrite(leds[i],HIGH);
   }
 }
 
 void AzulesOn()
 {
-  for(int i=2;i<total_usados;i++) { // el primero azul es el 2
+  for(int i=2;i<total_usados;i+=3) { // el primero azul es el 2 y saltamos de 3 en 3
     digitalWrite(leds[i],HIGH);
   }
+}
+
+// Podemos hacer la mezcla
+void MoradoOn()
+{
+  AzulesOn();
+  RojosOn();
 }
 
 // ¿Como se haría para los verdes? ¿y para apagarlos?
