@@ -16,6 +16,8 @@ Usamos un transistor para poder proporcionar la intensidad suficiente a la tira 
 
 ![transistor](./images/ledstripbjt.gif)
 
+¿Transistores compatibles?
+
 ## Código
 
 Con el montaje utilizado basta con activar la salida correspondinete de Arduino para que se encienda la tira de leds conectada a ese transistor
