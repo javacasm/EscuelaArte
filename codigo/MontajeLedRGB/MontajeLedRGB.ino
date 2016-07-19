@@ -95,6 +95,7 @@ void MoradoOn()
 // Ejercicios
 // ¿Como se haría para los verdes? ¿y para apagarlos?
 // Crear combinaciones como blanco o naranja
+// Crear efectos como "movimiento de colores"
 
 void loop()
 
