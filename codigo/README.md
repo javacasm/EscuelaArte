@@ -1,9 +1,5 @@
 # Código de los ejemplos para Escuela de Arte
 
+[Código inicial control de leds](./MontajeLedRGB_Original/MontajeLedRGB_Original.ino)
 
-## [Control de tiras de leds RGB](./ControlTirasLeds.md)
-
-
-
-
-## Proyectos
+[Código simplificado](./MontajeLedRGB/MontajeLedRGB.ino)
