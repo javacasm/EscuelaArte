@@ -9,6 +9,7 @@ Las tiras de leds usualmente necesitan 12v y dependiendo del número de leds, m�
 
 Supongamos una tira que consume unos 0,3A por metro. Si usamos 10 metros necesitaremos proporcionar 3 amperios
 
+¿Cálculos de consumos?
 
 ## Montaje
 
