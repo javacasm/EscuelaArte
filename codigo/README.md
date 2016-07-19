@@ -1,6 +1,9 @@
 # Código de los ejemplos para Escuela de Arte
 
 
-## Control de tiras de leds RGB
+## [Control de tiras de leds RGB](./ControlTirasLeds.md)
 
-Se trata de controlar tiras de leds RGB
+
+
+
+## Proyectos
