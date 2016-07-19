@@ -14,7 +14,7 @@ Supongamos una tira que consume unos 0,3A por metro. Si usamos 10 metros necesit
 
 Usamos un transistor para poder proporcionar la intensidad suficiente a la tira conectada (una patilla de Arduino no puede proporcionar más de 40mA (0,04A))
 
-
+![transistor](./images/ledstripbjt.gif)
 
 ## Código
 
