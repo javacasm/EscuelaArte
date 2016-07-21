@@ -21,6 +21,12 @@ Usamos un transistor para poder proporcionar la intensidad suficiente a la tira 
 
 ## Código
 
-Con el montaje utilizado basta con activar la salida correspondinete de Arduino para que se encienda la tira de leds conectada a ese transistor
+Vamos a hacer el control de dos formas: Primero usando un control On/Off y después usando un control analógico (es decir con niveles intermedios)
 
-[Código](./codigo/MontajeLedRGB/MontajeLedRGB.ino))
+Con el montaje utilizado basta con activar la salida correspondiente de Arduino para que se encienda la tira de leds conectada a ese transistor
+
+[Código On/Off](./codigo/MontajeLedRGB/MontajeLedRGB.ino))
+
+Cuando usamos niveles intermedios podemos usar valores entre 0 y 255 que representan el valor mínimo (Off) y el máximo (On)
+
+[Código de niveles analógicos](./codigo/ControlAnalogLedsRGB/ControlAnalogLedsRGB.ino)
