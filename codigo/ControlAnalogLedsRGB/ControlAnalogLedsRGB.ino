@@ -4,11 +4,12 @@
 #define B 11
 
 void setup() {
-  // put your setup code here, to run once:
+// Para usar las salidas PWM no hace falta hacer el pinMode
 
 }
 
 void loop() {
+  
   // Apagamos todo
   analogWrite(R,0);
   analogWrite(G,0);
