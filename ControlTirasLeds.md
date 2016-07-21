@@ -27,6 +27,6 @@ Con el montaje utilizado basta con activar la salida correspondiente de Arduino 
 
 [Código On/Off](./codigo/MontajeLedRGB/MontajeLedRGB.ino))
 
-Cuando usamos niveles intermedios podemos usar valores entre 0 y 255 que representan el valor mínimo (Off) y el máximo (On)
+Cuando usamos niveles intermedios podemos usar valores entre 0 y 255 que representan el valor mínimo (Off) y el máximo (On). Esto es lo que se conoce com PWM y para usarlo tenemos que usar los pines digital de Arduino que los soportan (3,4,5,9,10,11 en Arduino Uno y 0,13 en Arduino Mega)
 
 [Código de niveles analógicos](./codigo/ControlAnalogLedsRGB/ControlAnalogLedsRGB.ino)
