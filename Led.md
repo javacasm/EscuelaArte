@@ -62,3 +62,20 @@ Con este sencillo código
        }
 
     }
+## Control de un led RGB individual
+
+
+Estos leds RGG internamente tienen 3 leds (Red,Green,Blue) con una de las patillas común:
+
+* Positivo (Ánodo) Común
+
+![7](./images/LedRGBPcomun.jpg)
+
+* Negativo (Cátodo) Común
+
+![8](./images/LedRGBNComun.png)
+
+(En las imágenes se ve un potenciómetro que se aprenderá a usar en [Interacción](./interaccion.md))
+
+
+Si queremos manejar más leds, necesitaremos Transistores, como vemos en [Control de Tiras Leds](./ControlTirasLeds.md)
