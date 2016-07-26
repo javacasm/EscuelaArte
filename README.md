@@ -7,3 +7,5 @@
 ## [Interacción](./interaccion.md)
 
 ## [Proyectos](./Proyectos.md)
+
+## [Talleres](./Talleres.md)
