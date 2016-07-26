@@ -11,3 +11,5 @@
 ## [Talleres](./Talleres.md)
 
 ## [Motores](./motores.md)
+
+## [Pantallas](./lcd.md)
