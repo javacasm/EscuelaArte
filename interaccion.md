@@ -67,7 +67,7 @@ Un acelerómetro es capaz de leer datos de posición (hay diferentes formas de h
 
 ![1](http://www.elecfreaks.com/wiki/images/thumb/5/5e/OCTOPUS_HMC5883L_A.JPG/400px-OCTOPUS_HMC5883L_A.JPG)
 
-Cada modelo se mide de forma distinta, veamos el HMC5883L
+Cada modelo se mide de forma distinta, veamos el [HMC5883L](http://www.elecfreaks.com/wiki/index.php?title=Octopus_3-Axis_Digital_Compass_Sensor)
 Leeremos los valores y lo convertimos a grados de colores RGB
 
     #include <Wire.h> //I2C Arduino Library
