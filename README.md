@@ -4,7 +4,7 @@
 
 ### [Historia](./Historia.md)
 ### [¿Dónde encontrar diseños?](./Repositorios.md)
-### [Anatomía de una impresora](./impresora3D.md)
+### [Anatomía de una impresora](./Impresoras3D.md)
 
 ### [Tipos de Filamentos](./Filamentos.md)
 
@@ -16,16 +16,16 @@
 
 ## Arduino
 
-## [Control de tiras de leds RGB](./ControlTirasLeds.md)
+### [Control de tiras de leds RGB](./ControlTirasLeds.md)
 
-## [Encendiendo 1 led](./Led.md)
+### [Encendiendo 1 led](./Led.md)
 
-## [Interacción](./interaccion.md)
+### [Interacción](./interaccion.md)
 
-## [Proyectos](./Proyectos.md)
+### [Proyectos](./Proyectos.md)
 
-## [Talleres](./Talleres.md)
+### [Talleres](./Talleres.md)
 
-## [Motores](./motores.md)
+### [Motores](./motores.md)
 
-## [Pantallas](./lcd.md)
+### [Pantallas](./lcd.md)
