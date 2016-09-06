@@ -11,9 +11,7 @@
 ### Manejando una impresora 3D
   * [Software de impresión](./Software.md)
   * [Formatos de impresión](./Formatos.md)
-  * Funcionamiento
   * [Proceso de impresión](./Proceso De Impresion.md)
-  * Mantenimiento y cuidados
   * [Solución de Problemas](./Problemas.md)
 
 ## Arduino
