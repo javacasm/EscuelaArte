@@ -22,4 +22,4 @@
 * Ajuste de pasos
 *
 
-[Gúia de resolución de problemas](https://www.leon-3d.es/guia-de-resolucion-de-problemas/)
+[Guía de resolución de problemas](https://www.leon-3d.es/guia-de-resolucion-de-problemas/)
