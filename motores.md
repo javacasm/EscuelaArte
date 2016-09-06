@@ -3,7 +3,7 @@ Motores
 
 # Servos
 
-![servo](./imgages/knob_bb.png)
+![servo](./images/knob_bb.png)
 
     #include <Servo.h> // incluimos la librería servo
 
