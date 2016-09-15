@@ -29,3 +29,5 @@
 ### [Motores](./motores.md)
 
 ### [Pantallas](./lcd.md)
+
+### [Bluetooth](./bluetooth.md)
