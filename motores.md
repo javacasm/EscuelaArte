@@ -1,7 +1,9 @@
-Motores
+# Motores
 
+Existen muchos tipos de motores: motores DC, motores paso a paso (stepper) y servos
+(TODO: Buscar fotos y enlaces)
 
-# Servos
+## Servos
 
 ![servo](./images/knob_bb.png)
 
